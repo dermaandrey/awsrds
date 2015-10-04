@@ -1,0 +1,12 @@
+version: 0.0
+os: linux
+files:
+   - source: /
+     destination: /var/www/html/awsrds
+permissions:
+   - object: /var/www/html/awsrds
+     pattern: "**"
+     owner: root
+     group: root
+     type:
+       - file
