@@ -14,7 +14,7 @@ $getData = Member::find('all');
 
 <body>
 
-<h2>Test ANDREY DERMA PUTRA TTES</h2>
+<h2>Test ANDREY DERMA PUTRA TTES SS</h2>
 <table>
     <tr>
         <td>No</td>
