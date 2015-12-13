@@ -1,2 +1,2 @@
 #!/bin/bash
-curl http://54.169.233.150:8080/job/awswithrds/build?delay=0sec
+curl http://54.169.233.150:8080/job/AwsRds/build?token=konank
